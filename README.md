@@ -1,4 +1,4 @@
-# Seattle Bike Rider Analysis
+# Seattle Bike Ride Analysis
 
 ## Overview of this Analysis
 This short analysis project has records of rental bikes from city of Seattle.
